@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:fluttie/fluttie.dart';
 
 void main() {
   runApp(MyApp());
